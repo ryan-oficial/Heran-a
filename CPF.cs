@@ -1,6 +1,6 @@
 namespace Herança
 {
-    public class CPF
+    public class CPF : pessoa
     {
         public string cpf;
         public string rg;
